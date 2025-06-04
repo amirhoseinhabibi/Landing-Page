@@ -1,0 +1,25 @@
+html, body {
+    height: 100%;
+}
+
+.root {
+    height: 100%;
+}
+
+.header {
+    display: flex;
+}
+
+.menu-list {
+    display: flex;
+    list-style: none;
+
+    li {
+        margin-inline: 8px;
+    }
+}
+
+.logo {
+    width: 150px;
+    height: auto;
+}
