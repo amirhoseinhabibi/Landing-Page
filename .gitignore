@@ -1,5 +1,48 @@
-.vscode
-
-.idea
-
+# سیستم‌عامل‌ها
 .DS_Store
+Thumbs.db
+
+# پوشه‌های خروجی/ساخت
+dist/
+build/
+out/
+
+# node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# فایل‌های محیطی
+.env
+.env.local
+.env.*.local
+
+# Cache مرورگر/ابزارها
+.cache/
+.vite/
+.next/
+.svelte-kit/
+turbo/
+*.tsbuildinfo
+
+# ویرایشگرها (VS Code و دیگران)
+.vscode/
+.idea/
+*.swp
+
+# گزارش‌های خطا
+*.log
+
+# پوشه‌های موقتی
+temp/
+tmp/
+*.tmp
+
+# پوشه‌های کامپایل شده
+*.map
+*.lock
+*.bak
+
+# فایل‌های مربوط به Mac
+Icon?
